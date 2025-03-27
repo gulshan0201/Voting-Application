@@ -1,1 +1,1 @@
-# Preethi
+# Voting application using java 
